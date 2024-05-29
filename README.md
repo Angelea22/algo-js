@@ -1,1 +1,1 @@
-# algo-js-2
+# algo-js
